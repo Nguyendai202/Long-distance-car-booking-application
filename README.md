@@ -25,6 +25,9 @@ To run the application locally, follow these steps:
 4. Build the project to resolve dependencies and compile the source code.
 5. Run the application by executing the main Java class.
 
+    ![bookcoach](login_new.jpg)
+
+   
 ## Usage
 
 Once the application is running, follow these steps to use the ride booking functionality:
@@ -38,6 +41,8 @@ Once the application is running, follow these steps to use the ride booking func
 7. Proceed to book the ride and make the payment using the integrated payment gateway.
 8. Once the booking is confirmed, you can view and manage your bookings in the "XEM LỊCH SỬ ĐÃ ĐẶT" section.
 
+    ![bookcoach](book.jpg)
+  
 ## Contributing
 
 We welcome contributions to enhance the functionality and usability of this application. If you would like to contribute, please follow these guidelines:
